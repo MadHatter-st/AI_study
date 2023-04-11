@@ -170,6 +170,6 @@ public class Backpropagation {
     public static void main(String[] args){
 
         new Backpropagation();
-
+        new Backpropagation();
     }
 }
