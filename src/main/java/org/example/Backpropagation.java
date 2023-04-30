@@ -167,9 +167,9 @@ public class Backpropagation {
         return Math.sqrt(num/list.length);
     }
 
-    public static void main(String[] args){
-
-        new Backpropagation();
-        new Backpropagation();
-    }
+//    public static void main(String[] args){
+//
+//        new Backpropagation();
+//        new Backpropagation();
+//    }
 }

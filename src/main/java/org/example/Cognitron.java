@@ -124,7 +124,7 @@ public class Cognitron {
 
     }
 
-    public static void main(String[] args) {
-        new Cognitron();
-    }
+//    public static void main(String[] args) {
+//        new Cognitron();
+//    }
 }
