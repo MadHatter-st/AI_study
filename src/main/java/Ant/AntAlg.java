@@ -1,4 +1,4 @@
-package org.example;
+package Ant;
 
 public class AntAlg {
 

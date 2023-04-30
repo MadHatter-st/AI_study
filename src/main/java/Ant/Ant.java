@@ -1,9 +1,8 @@
-package org.example;
+package Ant;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
-import java.util.TreeMap;
 
 public class Ant {
     private List<Node> tabooList;

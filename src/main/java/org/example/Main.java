@@ -1,6 +1,8 @@
 package org.example;
 
 
+import Ant.AntAlg;
+
 import java.io.IOException;
 
 public class Main {
